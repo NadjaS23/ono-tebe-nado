@@ -97,7 +97,7 @@
   letter-spacing: 0.3em;
 }
 
-.aligned-text_center{
+.aligned-text_center {
   text-align: center;
   line-height: 100px;
 }
@@ -274,7 +274,7 @@
 
 .footer {
   display: grid;
-  grid-template-columns: 1fr 149px 1fr;
+  grid-template-columns: 1fr 150px 1fr;
   align-items: start;
   padding: 0px 50px 88px;
 }
@@ -287,7 +287,7 @@
   text-align: center;
 }
 
-.footer__menu-list-item  {
+.footer__menu-list-item {
   list-style: none;
 }
 
