@@ -38,7 +38,7 @@
 .header__logo {
   width: 134px;
   height: 107px;
-  align-self: center; /*?*/
+  align-self: center;
 }
 
 .address {
@@ -88,7 +88,7 @@
   text-transform: uppercase;
   display: flex;
   flex-direction: column;
-  row-gap: 20px;   
+  row-gap: 20px;
 }
 
 .aligned-text {
