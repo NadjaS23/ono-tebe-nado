@@ -137,10 +137,11 @@
   padding: 12px 32px;
   background-color: transparent;
   color: rgb(255 255 255);
+  font-family: Raleway, sans-serif;
   font-weight: 500;
   font-size: 22px;
   text-transform: uppercase;
-  border: 1px solid rgb(255 255 255);
+  border: 1px solid currentColor;
 }
 
 .lots {
@@ -267,7 +268,7 @@
   gap: 24px;
 }
 
-.about__text-p {
+.about__paragraph {
   font-size: 20px;
   line-height: 24px;
 }
